@@ -66,4 +66,11 @@ The button "Calcular" (Calculus) open a new window, where the user can input dat
  <b>Figure 5:</b> AlfaMCV - Calculus Window (Reis et al, 2017)
 </p>
 
-After input data, a new window is opened with all informations about the structure. The first tab "Regime Linear" (Linear Behavior), presents some informations about the structure, like "Altura da Linha Neutra (cm)" (neutral axis height, cm), "Deformação de Tração Máxima do Concreto" (maximum concrete tension strain), "Deformação de Compressão Correspondente à Tração Máxima" (concrete strain in compression when maximum tension is obtained), "Deformação de Compressão Máxima do Concreto" (maximum concrete compression strain), "Deformação do Aço de Tração" (steel tension strain)
+After input data, a new window is opened with all informations about the structure. The first tab "Regime Linear" (Linear Behavior), presents some informations about the structure, like "Altura da Linha Neutra (cm)" (neutral axis height, cm), "Deformação de Tração Máxima do Concreto" (maximum concrete tension strain), "Deformação de Compressão Correspondente à Tração Máxima" (concrete strain in compression when maximum tension is obtained), "Deformação de Compressão Máxima do Concreto" (maximum concrete compression strain), "Deformação do Aço de Tração" (steel tension strain), "Deformação do Aço de Compressão" (steel compression strain), "Momento de Fissuração (kN.m)" (Cracking Moment kN.m). All of those characteristics can see in Figure 6.
+
+<div>
+<img src="Figures/Alfa_Calculus.png" width="80%">
+</div>
+<p>
+ <b>Figure 6:</b> AlfaMCV - Result Window - Linear Behavior (Reis et al, 2017)
+</p>
