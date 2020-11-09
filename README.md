@@ -40,3 +40,30 @@ However, the behavior of tension in concrete is not used in design structures an
 </p>
 
 Where f<sub>tk</sub> is characteristic concrete tension resistence, <i>&epsilon;</i><sub>tp</sub> is concrete strain in maximun concrete tension resistence, E<sub>c</sub> is Moduli's Young, <i>&epsilon;</i><sub>tf</sub> is concrete strain when tension stress is zero and E<sub>t</sub> is tangent Moduli.
+
+## Methodology
+
+All methodology can see in REIS et al (2017) and BAZANT (1984).
+
+## About the Software
+
+AlfaMCV (Momento Curvature em Vigas de Concreto Armado, i.e, Curvature Moment in Reinforced Concrete Beams, in Portuguese), is a simple software where exists an interations between the programn and the user, i.e, exists a GUI interface. The software was developed with Visual Basic computational language and was used Microsoft Visual Studio 2017 platform. The software is in Portuguese.
+The software shows a principal window where are presented four buttons: "Calcular" (Calculus), "Sobre o Software" (About the Software), "Ajuda" (Help) and "Sair" (Exit), like Figure 4.
+
+<div>
+<img src="Figures/Alfa_Principal.png" width="40%">
+</div>
+<p>
+ <b>Figure 4:</b> AlfaMCV - Principal Window (Reis et al, 2017)
+</p>
+
+The button "Calcular" (Calculus) open a new window, where the user can input data about the structure phisics-geometrics characteristics. There are necessaire: "Altura Total - H (cm)" (total height H, cm), "Altura Útil Total - d (cm)" (total useful height d, cm), "Largura - B (cm)" (width B, cm), "Vão (cm)" (beam length, cm), "Resistencia à Compressão do Concreto - f<sub>ck</sub> (MPa)" (concrete compression resistence - f<sub>ck</sub> MPa), "Resistencia à Tração do Concreto - f<sub>tk</sub> (MPa)" (concrete tension resistence f<sub>ck</sub> MPa), "Modulo de Elasticidade do Concreto (MPa)" (concrete's Young Moduli MPa), "Área de Aço de Compressão - A'<sub>s</sub> (cm²)" (steel compression area A'<sub>s</sub>, cm²), "Área de Aço de Tração - A<sub>s</sub> (cm²)" (steel tension area A<sub>s</sub>, cm²), "Módulo de Elasticidade do Aço - Es (MPa)" (steel Young Moduli MPa) and "Escoamento do Aço - f<sub>y</sub> (MPa)" (yield steel f<sub>y</sub> MPa). All those characteristics can see in Figure 5.
+
+<div>
+<img src="Figures/Alfa_Calculus.png" width="80%">
+</div>
+<p>
+ <b>Figure 5:</b> AlfaMCV - Calculus Window (Reis et al, 2017)
+</p>
+
+After input data, a new window is opened with all informations about the structure. The first tab "Regime Linear" (Linear Behavior), presents some informations about the structure, like "Altura da Linha Neutra (cm)" (neutral axis height, cm), "Deformação de Tração Máxima do Concreto" (maximum concrete tension strain), "Deformação de Compressão Correspondente à Tração Máxima" (concrete strain in compression when maximum tension is obtained), "Deformação de Compressão Máxima do Concreto" (maximum concrete compression strain), "Deformação do Aço de Tração" (steel tension strain)
