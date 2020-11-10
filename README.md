@@ -97,7 +97,7 @@ The second button in principal window "Ajuda" (Help), open a window with some in
 Finally, the third button is about the software, i.e, some informations about the developer, professors and the University. Figure 9 shows this description.
 
 <div>
-<img src="Figures/Alfa_About.png" width="80%">
+<img src="Figures/Alfa_About.png" width="60%">
 </div>
 <p>
  <b>Figure 9:</b> AlfaMCV - About Window - Nonlinear Behavior (Reis et al, 2017)
@@ -163,7 +163,11 @@ For this case was considered M<sub>k</sub> = 1000 kN.m and a steel area was calc
 ## Informations About the Software
 
 Rio de Janeiro State University
+
 Faculty of Engineering
+
 Developer: Ana Waldila de Queiroz Ramiro Reis
+
 Professors: Margareth da Silva Magalhães and Rodrigo Bird Burgos
+
 Contact: anawaldila@hotmail.com
