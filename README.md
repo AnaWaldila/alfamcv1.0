@@ -76,9 +76,33 @@ After input data, a new window is opened with all informations about the structu
 </p>
 
 The tab "Regime Não Linear" (Nonlinear Behavior) presents a structure's behavior for each step of analysis. So, in this case, there are 8 columns with informations about the structure: "Índice i" (index i), "Tipo de Regime" (type of behavior), "Linha Neutra (cm)" (neutral axis, cm), "Deformação Compressão Concreto" (concrete compression strain), "Deformação Compressão do Aço" (steel compression strain), "Deformação Tração do Aço" (steel tension strain), "Momento (kN.m)" (Moment kN.m) and "Deflexão (cm)" (deflexion, cm). This table show in Figure 7.
+
 <div>
 <img src="Figures/Alfa_Results2.png" width="80%">
 </div>
 <p>
  <b>Figure 7:</b> AlfaMCV - Result Window - Nonlinear Behavior (Reis et al, 2017)
 </p>
+
+After this, the user can export this table to Excel software, only press the button in menu "Exportar para Excel" (export to excel) and rename the file and save anywhere in own computer.
+The second button in principal window "Ajuda" (Help), open a window with some instructions about how the user can use the software, the input data and output data, like Figure 8 shows.
+
+<div>
+<img src="Figures/Alfa_Help.png" width="80%">
+</div>
+<p>
+ <b>Figure 8:</b> AlfaMCV - Help Window - Nonlinear Behavior (Reis et al, 2017)
+</p>
+
+Finally, the third button is about the software, i.e, some informations about the developer, professors and the University. Figure 9 shows this description.
+
+<div>
+<img src="Figures/Alfa_About.png" width="80%">
+</div>
+<p>
+ <b>Figure 9:</b> AlfaMCV - About Window - Nonlinear Behavior (Reis et al, 2017)
+</p>
+
+AlfaMCV software has a Brazilian Registration in INPI (Instituto Nacional de Propriedade Industrial) and the registration number is BR 51 2016 001434-2. 
+
+## Results
