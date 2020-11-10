@@ -110,7 +110,7 @@ AlfaMCV software has a Brazilian Registration in INPI (Instituto Nacional de Pro
 Some analysis was realized with differents considerations of steel area in concrete section. Next, a table with physics-geometric characteristics:
 
 <div>
-<img src="Figures/Alfa_About.png" width="80%">
+<img src="Figures/Result_Table.png" width="80%">
 </div>
 <p>
  <b>Figure 10:</b> Structure Physics-Geometric Characteristics (Reis et al, 2017)
