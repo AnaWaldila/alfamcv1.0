@@ -110,7 +110,7 @@ AlfaMCV software has a Brazilian Registration in INPI (Instituto Nacional de Pro
 Some analysis was realized with differents considerations of steel area in concrete section. Next, a table with physics-geometric characteristics:
 
 <div>
-<img src="Figures/Result_Table.png" width="80%">
+<img src="Figures/Result_Table.png" width="50%">
 </div>
 <p>
  <b>Figure 10:</b> Structure Physics-Geometric Characteristics (Reis et al, 2017)
@@ -118,3 +118,4 @@ Some analysis was realized with differents considerations of steel area in concr
 
 ### Reinforced Concrete with low reinforcement
 
+For this case was considered the crack moment in concrete, where there is calculated M<sub>k</sub> = 31.7625 kN.m and a steel area with A<sub>s</sub> = 1.2375 cm². The graphic was ploted when has been compared all results: models of BAZANT (1984) and SAENZ (1964) considering the tension in concrete (red line), model of SAENZ (1964) without tension in concrete (blue line) and the moment of rupture (green line). It is possible to see all cases converge to about the same value of moment, when the deflection is hight, M<sub>k</sub> = 33.76 kN.m
