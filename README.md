@@ -110,7 +110,7 @@ AlfaMCV software has a Brazilian Registration in INPI (Instituto Nacional de Pro
 Some analysis was realized with differents considerations of steel area in concrete section. Next, a table with physics-geometric characteristics:
 
 <div>
-<img src="Figures/Result_Table.png" width="50%">
+<img src="Figures/Result_Table.png" width="40%">
 </div>
 <p>
  <b>Figure 10:</b> Structure Physics-Geometric Characteristics (Reis et al, 2017)
@@ -118,4 +118,52 @@ Some analysis was realized with differents considerations of steel area in concr
 
 ### Reinforced Concrete with low reinforcement
 
-For this case was considered the crack moment in concrete, where there is calculated M<sub>k</sub> = 31.7625 kN.m and a steel area with A<sub>s</sub> = 1.2375 cm². The graphic was ploted when has been compared all results: models of BAZANT (1984) and SAENZ (1964) considering the tension in concrete (red line), model of SAENZ (1964) without tension in concrete (blue line) and the moment of rupture (green line). It is possible to see all cases converge to about the same value of moment, when the deflection is hight, M<sub>k</sub> = 33.76 kN.m
+For this case was considered the crack moment in concrete, where there is calculated M<sub>k</sub> = 31.7625 kN.m and a steel area with A<sub>sc</sub> = 1.2375 cm². The graphic was ploted, Figure 11, when has been compared all results: models of BAZANT (1984) and SAENZ (1964) considering the tension in concrete (red line), model of SAENZ (1964) without tension in concrete (blue line) and the moment of rupture (green line). It is possible to see all cases converge to about the same value of moment, when the deflection is hight, M<sub>k</sub> = 33.76 kN.m. The deflection shows by the software is 0.01171 cm and calculated by literature is 0.0118 cm.
+
+<div>
+<img src="Figures/Result_LR.png" width="60%">
+</div>
+<p>
+ <b>Figure 11:</b> Reinforced Concrete with low reinforcement (Reis et al, 2017)
+</p>
+
+### Reinforced Concrete with normal reinforcement
+
+For this case was considered reinforcement rate equal to 0.178, where there is calculated M<sub>k</sub> = 360.73 kN.m and a steel area with A<sub>sc</sub> = 14.685 cm². The graphic was ploted, Figure 12, when has been compared all results: models of BAZANT (1984) and SAENZ (1964) considering the tension in concrete (red line), model of SAENZ (1964) without tension in concrete (blue line) and the moment of rupture (green line). It is possible to see all cases converge to about the same value of moment, when the deflection is hight, M<sub>k</sub> = 366.48 kN.m. The deflection shows by the software (in linear behavior) is 0.01402 cm and calculated by literature is 0.012339 cm.
+
+<div>
+<img src="Figures/Result_NR.png" width="60%">
+</div>
+<p>
+ <b>Figure 12:</b> Reinforced Concrete with normal reinforcement (Reis et al, 2017)
+</p>
+
+### Reinforced Concrete with hight reinforcement
+
+For this case was considered reinforcement rate equal to 0.433, where there is calculated M<sub>k</sub> = 723.73 kN.m and a steel area with A<sub>sc</sub> = 35.72 cm². The graphic was ploted, Figure 13, when has been compared all results: models of BAZANT (1984) and SAENZ (1964) considering the tension in concrete (red line), model of SAENZ (1964) without tension in concrete (blue line) and the moment of rupture (green line). The deflection shows by the software (in linear behavior) is 0.01328 cm and calculated by literature is 0.01734 cm.
+
+<div>
+<img src="Figures/Result_HR.png" width="60%">
+</div>
+<p>
+ <b>Figure 13:</b> Reinforced Concrete with hight reinforcement (Reis et al, 2017)
+</p>
+
+### Reinforced Concrete with compression and tension reinforcement
+
+For this case was considered M<sub>k</sub> = 1000 kN.m and a steel area was calculated with A<sub>sc</sub> = 46.66 cm² and A<sub>st</sub> = 16.74 cm². The graphic was ploted, Figure 14, when has been compared all results: models of BAZANT (1984) and SAENZ (1964) considering the tension in concrete (red line), model of SAENZ (1964) without tension in concrete (blue line) and the moment of rupture (green line). The deflection shows by the software (in linear behavior) is 0.02059 cm and calculated by literature is 0.0128 cm.
+
+<div>
+<img src="Figures/Result_DR.png" width="60%">
+</div>
+<p>
+ <b>Figure 14:</b> Reinforced Concrete with compression and tension reinforcement (Reis et al, 2017)
+</p>
+
+## Informations About the Software
+
+Rio de Janeiro State University
+Faculty of Engineering
+Developer: Ana Waldila de Queiroz Ramiro Reis
+Professors: Margareth da Silva Magalhães and Rodrigo Bird Burgos
+Contact: anawaldila@hotmail.com
