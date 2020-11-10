@@ -106,3 +106,15 @@ Finally, the third button is about the software, i.e, some informations about th
 AlfaMCV software has a Brazilian Registration in INPI (Instituto Nacional de Propriedade Industrial) and the registration number is BR 51 2016 001434-2. 
 
 ## Results
+
+Some analysis was realized with differents considerations of steel area in concrete section. Next, a table with physics-geometric characteristics:
+
+<div>
+<img src="Figures/Alfa_About.png" width="80%">
+</div>
+<p>
+ <b>Figure 10:</b> Structure Physics-Geometric Characteristics (Reis et al, 2017)
+</p>
+
+### Reinforced Concrete with low reinforcement
+
