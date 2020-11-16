@@ -166,7 +166,7 @@ Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Development of a software for the 
 
 Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Desenvolvimento de um programa computacional para obtenção de gráficos momento vs curvatura e momento vs deflexão em vigas de concreto armado. 59° Congresso Brasileiro do Concreto, 2017.
 
-Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Development of a software for the numerical modeling of reinforced concrete sections - AlfaMCV. SoftwareZ, 2020.
+Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Development of a software for the numerical modeling of reinforced concrete sections - AlfaMCV. SoftwareX - Elsevier, 2020.
 
 Reis, A.W.Q.R. Modelagem Numerica de Seções de Concreto Armado. Rio de Janeiro State University. Graduation Thesis, 2017.
 
