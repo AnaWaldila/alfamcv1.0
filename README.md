@@ -160,6 +160,16 @@ For this case was considered M<sub>k</sub> = 1000 kN.m and a steel area was calc
  <b>Figure 14:</b> Reinforced Concrete with compression and tension reinforcement (Reis et al, 2017)
 </p>
 
+## References
+
+Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Development of a software for the numerical modeling of reinforced concrete sections. 3° EMI International Conference, 2017.
+
+Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Desenvolvimento de um programa computacional para obtenção de gráficos momento vs curvatura e momento vs deflexão em vigas de concreto armado. 59° Congresso Brasileiro do Concreto, 2017.
+
+Reis, A.W.Q.R., Burgos, R.B, Magalhães, M.S. Development of a software for the numerical modeling of reinforced concrete sections - AlfaMCV. SoftwareZ, 2020.
+
+Reis, A.W.Q.R. Modelagem Numerica de Seções de Concreto Armado. Rio de Janeiro State University. Graduation Thesis, 2017.
+
 ## Informations About the Software
 
 Rio de Janeiro State University
