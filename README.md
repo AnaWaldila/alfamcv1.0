@@ -57,7 +57,19 @@ AlfaMCV presents a main window which four buttons are presented: "Calcular" (Cal
  <b>Figure 4:</b> AlfaMCV - Principal Window (Reis et al, 2017)
 </p>
 
-The "Calcular" button opens a new window, where the user can inpput data about the physical-geometric characteristics of the structure. The user needs: "Altura Total - H (cm)" (total useful height H, cm), "Altura útil total - d (cm)" (total useful height d, cm), "Largura - B (cm)" (width B, cm), "Vão (cm)" (beam length, cm), "Resistência à Compressão do Concreto - f<sub>ck</sub> (MPa)" (concrete compressive strength - f<sub >ck</sub> sub> MPa), "Resistência à Tração do Concreto - f<sub>tk</sub> (MPa)" (tensile strength of concrete f<sub>ck</sub> MPa), "Módulo de Elasticidade do Concreto (MPa)" (Concrete's Young Modulus MPa), "Área de Aço de  Compressão - A'<sub>s</sub> (cm²)" (Steel Compression Area A'<sub>s< /sub>, cm²), "Área de aço de Tração - A<sub>s</sub> (cm²)" (strength area of steel A<sub>s</sub>, cm²), "Steel Elasticity Modulus - Es (MPa)" (Young Modulus MPa steel) and "Escoamento Aço - f< sub>y</sub> (MPa)" (f<sub>y</sub> MPa yield steel). All these features can be seen in Figure 5.
+The "Calcular" button opens a new window, where the user can inpput data about the physical-geometric characteristics of the structure. The user needs: 
+* "Altura Total - H (cm)" (total useful height H, cm);
+* "Altura útil total - d (cm)" (total useful height d, cm); 
+* "Largura - B (cm)" (width B, cm); 
+* "Vão (cm)" (beam length, cm); 
+* "Resistência à Compressão do Concreto - f<sub>ck</sub> (MPa)" (concrete compressive strength - f<sub>ck</sub> MPa); 
+* "Resistência à Tração do Concreto - f<sub>tk</sub> (MPa)" (tensile strength of concrete f<sub>ck</sub> MPa); 
+* "Módulo de Elasticidade do Concreto (MPa)" (Concrete's Young Modulus MPa); 
+* "Área de Aço de Compressão - A'<sub>s</sub> (cm²)" (Steel Compression Area A'<sub>s</sub>, cm²); 
+* "Área de aço de Tração - A<sub>s</sub> (cm²)" (strength area of steel A<sub>s</sub>, cm²); 
+* "Steel Elasticity Modulus - E<sub>s</sub> (MPa)" (Young Modulus MPa steel);
+* "Escoamento Aço - f<sub>y</sub> (MPa)" (f<sub>y</sub> MPa yield steel). 
+All these features can be seen in Figure 5.
 
 <div>
 <img src="Figures/Alfa_Calculus.png" width="80%">
